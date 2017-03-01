@@ -1,0 +1,10 @@
+/*!
+ * Unidata icon alignment in authors sidebar _includes/author-profile-custom-links.html
+*/
+
+img.unidata-ico {
+  width: 0.9em;
+  text-align: center;
+  height: auto;
+  margin: 0 0 0.2em 0.2em;
+}
